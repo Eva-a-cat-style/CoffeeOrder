@@ -1,6 +1,7 @@
 package coffee.order;
 import java.util.Scanner;
 
+
 public class Main {
     public static void main(String[] args) {
         CoffeeOrderBoard board = new CoffeeOrderBoard();
