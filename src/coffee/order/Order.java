@@ -1,5 +1,6 @@
 package coffee.order;
 
+
 public class Order {
     private final String name;
     private final int number;

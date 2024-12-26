@@ -2,6 +2,7 @@ package coffee.order;
 import java.util.ArrayList;
 import java.util.List;
 
+
 public class CoffeeOrderBoard {
     private final List<Order> orders;
     private int nextNumber;
